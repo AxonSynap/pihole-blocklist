@@ -1,3 +1,4 @@
+# LG Smart TV Tracking
 0.0.0.0 lgsmartad.com
 0.0.0.0 www.lgsmartad.com
 0.0.0.0 lgtvcommon.com
